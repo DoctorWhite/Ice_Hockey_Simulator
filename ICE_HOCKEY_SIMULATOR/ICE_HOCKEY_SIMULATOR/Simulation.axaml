@@ -1,0 +1,134 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="ICE_HOCKEY_SIMULATOR.Simulation"
+        Title="Simulation">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Border BorderBrush="Black" BorderThickness="0,0,0,0" Grid.Row="0" Grid.Column="0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <Image Name="LogoTeam1" Stretch="Uniform" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10,10,10,10"/>
+        </Border>
+
+        <Border BorderBrush="Black" BorderThickness="0,0,0,0" Grid.Row="0" Grid.Column="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <TextBlock Name="TimeSign" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" FontSize="100" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBlock Name="ScoreTeam1" Grid.Row="1" Grid.Column="0" FontSize="100" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBlock Name="ScoreTeam2" Grid.Row="1" Grid.Column="1" FontSize="100" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Grid>
+        </Border>
+
+        <Border BorderBrush="Black" BorderThickness="0,0,0,0" Grid.Row="0" Grid.Column="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <Image Name="LogoTeam2" Stretch="Uniform" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10,10,10,10"/>
+        </Border>
+        
+        <Border BorderBrush="Black" BorderThickness="0,0,0,0" Grid.Row="1" Grid.Column="0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <Grid Margin="10,10,10,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Button Name="IncAttack" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Click="ButtonIncAttackTeam1"/>
+                <TextBlock Text="Attack" Name="AttackSign" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"/>
+                <TextBlock Text="3" Name="AttackValue" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="40"/>
+                <Button Name="DecAttack" Grid.Row="0" Grid.Column="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Click="ButtonDecAttackTeam1"/>
+
+                <Button Name="IncShots" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Click="ButtonIncShotsTeam1" Margin="0,5,0,0"/>
+                <TextBlock Text="Shots/Pass" Name="ShotPassSign" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" Margin="0,5,0,0"/>
+                <TextBlock Text="3" Name="ShotPassValue" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="40" Margin="0,5,0,0"/>
+                <Button Name="DecShotsPass" Grid.Row="1" Grid.Column="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Click="ButtonDecShotsTeam1" Margin="0,5,0,0"/>
+               
+            </Grid>
+        </Border>
+
+        <Border BorderBrush="Black" BorderThickness="0,0,0,0" Grid.Row="1" Grid.Column="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <ScrollViewer VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Visible">
+                <StackPanel Name="TextComments">
+                </StackPanel>
+            </ScrollViewer>
+        </Border>
+
+        <Border BorderBrush="Black" BorderThickness="0,0,0,0" Grid.Row="1" Grid.Column="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <Grid Margin="10,10,10,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Button Name="IncAttack2" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Click="ButtonIncAttackTeam2"/>
+                <TextBlock Text="Attack" Name="AttackSign2" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"/>
+                <TextBlock Text="3" Name="AttackValueTeam2" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="40"/>
+                <Button Name="DecAttack2" Grid.Row="0" Grid.Column="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Click="ButtonDecAttackTeam2"/>
+
+                <Button Name="IncShots2" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Click="ButtonIncShotsTeam2" Margin="0,5,0,0"/>
+                <TextBlock Text="Shots/Pass" Name="ShotPassSign2" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" Margin="0,5,0,0"/>
+                <TextBlock Text="3" Name="ShotPassValueTeam2" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="40" Margin="0,5,0,0"/>
+                <Button Name="DecShotsPass2" Grid.Row="1" Grid.Column="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Click="ButtonDecShotsTeam2" Margin="0,5,0,0"/>
+ 
+            </Grid>
+        </Border>
+
+        <Border BorderBrush="Black" BorderThickness="0,0,0,0" Grid.Row="2" Grid.Column="0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <StackPanel Name="GoalsTeam1">
+                
+            </StackPanel>
+        </Border>
+
+        <Border BorderBrush="Black" BorderThickness="0,0,0,0" Grid.Row="2" Grid.Column="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <Grid Margin="10,10,10,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+            <Button Name="StartSimulation" Content="START SIMULATION" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Click="ButtonStartSimulation"/>
+            <Button Name="FinishSimulation" Content="EXIT" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Click="ButtonFinishSimulation"/>
+            </Grid>
+        </Border>
+
+        <Border BorderBrush="Black" BorderThickness="0,0,0,0" Grid.Row="2" Grid.Column="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <StackPanel Name="GoalsTeam2">
+                
+            </StackPanel>
+        </Border>
+
+        
+    </Grid>
+</Window>
+

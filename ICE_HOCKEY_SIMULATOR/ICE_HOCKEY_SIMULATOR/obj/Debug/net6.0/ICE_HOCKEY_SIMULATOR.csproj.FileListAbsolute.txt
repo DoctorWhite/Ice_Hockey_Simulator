@@ -1,0 +1,573 @@
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ICE_HOCKEY_SIMULATOR
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ICE_HOCKEY_SIMULATOR.deps.json
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ICE_HOCKEY_SIMULATOR.runtimeconfig.json
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ICE_HOCKEY_SIMULATOR.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ICE_HOCKEY_SIMULATOR.pdb
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Animation.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Base.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Controls.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.DesignerSupport.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.DesktopRuntime.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Dialogs.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Input.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Interactivity.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Layout.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Markup.Xaml.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Markup.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.MicroCom.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.OpenGL.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Styling.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Themes.Default.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Themes.Fluent.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Visuals.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Controls.DataGrid.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Desktop.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Diagnostics.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.FreeDesktop.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Native.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Remote.Protocol.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Skia.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Win32.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.X11.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/HarfBuzzSharp.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/JetBrains.Annotations.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/SkiaSharp.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Reactive.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Tmds.DBus.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win7-x64/native/av_libglesv2.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win7-x86/native/av_libglesv2.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.csproj.AssemblyReference.cache
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.AssemblyInfoInputs.cache
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.AssemblyInfo.cs
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.csproj.CoreCompileInputs.cache
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.csproj.CopyComplete
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/refint/ICE_HOCKEY_SIMULATOR.dll
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.pdb
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.genruntimeconfig.cache
+/Users/tomasrabel/Projects/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ref/ICE_HOCKEY_SIMULATOR.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ICE_HOCKEY_SIMULATOR
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ICE_HOCKEY_SIMULATOR.deps.json
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ICE_HOCKEY_SIMULATOR.runtimeconfig.json
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ICE_HOCKEY_SIMULATOR.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ICE_HOCKEY_SIMULATOR.pdb
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Animation.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Base.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Controls.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.DesignerSupport.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.DesktopRuntime.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Dialogs.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Input.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Interactivity.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Layout.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Markup.Xaml.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Markup.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.MicroCom.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.OpenGL.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Styling.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Themes.Default.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Themes.Fluent.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Visuals.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Controls.DataGrid.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Desktop.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Diagnostics.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.FreeDesktop.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Native.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Remote.Protocol.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Skia.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Win32.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.X11.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/HarfBuzzSharp.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/JetBrains.Annotations.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/SkiaSharp.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Reactive.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Tmds.DBus.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win7-x64/native/av_libglesv2.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win7-x86/native/av_libglesv2.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.csproj.AssemblyReference.cache
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.AssemblyInfoInputs.cache
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.AssemblyInfo.cs
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.csproj.CoreCompileInputs.cache
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.csproj.CopyComplete
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/refint/ICE_HOCKEY_SIMULATOR.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.pdb
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.genruntimeconfig.cache
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ref/ICE_HOCKEY_SIMULATOR.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Azure.Core.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Azure.Identity.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Humanizer.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.CodeDom.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Text.Json.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/browser-wasm/nativeassets/net6.0/e_sqlite3.a
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/EntityFramework.SqlServer.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/EntityFramework.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Data.SQLite.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Data.SQLite.EF6.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-x64/native/SQLite.Interop.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/osx-x64/native/SQLite.Interop.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x64/native/SQLite.Interop.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x86/native/SQLite.Interop.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ICE_HOCKEY_SIMULATOR
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ICE_HOCKEY_SIMULATOR.deps.json
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ICE_HOCKEY_SIMULATOR.runtimeconfig.json
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ICE_HOCKEY_SIMULATOR.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ICE_HOCKEY_SIMULATOR.pdb
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Animation.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Base.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Controls.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.DesignerSupport.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.DesktopRuntime.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Dialogs.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Input.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Interactivity.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Layout.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Markup.Xaml.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Markup.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.MicroCom.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.OpenGL.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Styling.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Themes.Default.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Themes.Fluent.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Visuals.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Controls.DataGrid.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Desktop.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Diagnostics.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.FreeDesktop.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Native.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Remote.Protocol.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Skia.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.Win32.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Avalonia.X11.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Azure.Core.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Azure.Identity.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/EntityFramework.SqlServer.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/EntityFramework.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/HarfBuzzSharp.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Humanizer.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/JetBrains.Annotations.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/SkiaSharp.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Data.SQLite.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.CodeDom.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Data.SQLite.EF6.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Reactive.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Text.Json.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/Tmds.DBus.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win7-x64/native/av_libglesv2.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win7-x86/native/av_libglesv2.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/browser-wasm/nativeassets/net6.0/e_sqlite3.a
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/linux-x64/native/SQLite.Interop.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/osx-x64/native/SQLite.Interop.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x64/native/SQLite.Interop.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win-x86/native/SQLite.Interop.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.csproj.AssemblyReference.cache
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.AssemblyInfoInputs.cache
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.AssemblyInfo.cs
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.csproj.CoreCompileInputs.cache
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.csproj.CopyComplete
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/refint/ICE_HOCKEY_SIMULATOR.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.pdb
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ICE_HOCKEY_SIMULATOR.genruntimeconfig.cache
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/obj/Debug/net6.0/ref/ICE_HOCKEY_SIMULATOR.dll
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/libvlc.dylib
+/Users/tomasrabel/Documents/FI MUNI/PV178 C#/hockey-simulator/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/ICE_HOCKEY_SIMULATOR/bin/Debug/net6.0/LibVLCSharp.dll

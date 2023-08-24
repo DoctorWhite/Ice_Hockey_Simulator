@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{48B8A2BE-6E06-4407-B6FB-F2A84AE8E141}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ICE_HOCKEY_SIMULATOR/ChangeTeam.axaml">
+    <Files>
+      <File FileName="ICE_HOCKEY_SIMULATOR/Simulation.axaml.cs" />
+      <File FileName="ICE_HOCKEY_SIMULATOR/IceRink.cs" />
+      <File FileName="ICE_HOCKEY_SIMULATOR/ChangeTeam.axaml" Line="15" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ICE_HOCKEY_SIMULATOR" expanded="True">
+            <Node name="ICE_HOCKEY_SIMULATOR" expanded="True">
+              <Node name="ChangeTeam.axaml" selected="True" />
+              <Node name="Simulation.axaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ICE__HOCKEY__SIMULATOR PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

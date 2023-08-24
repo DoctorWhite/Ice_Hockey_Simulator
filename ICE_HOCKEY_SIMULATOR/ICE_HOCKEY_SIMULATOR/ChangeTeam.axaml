@@ -1,0 +1,130 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="ICE_HOCKEY_SIMULATOR.ChangeTeam"
+        Title="ChangeTeam">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/> 
+        </Grid.RowDefinitions>
+
+        <Border BorderBrush="Black" BorderThickness="0" Grid.Row="1" Grid.Column="1" Grid.RowSpan="2" VerticalAlignment="Top" HorizontalAlignment="Stretch">
+            <StackPanel Name="Inputs" Background="#0380fc">
+                <Button Content="ADD PLAYER" HorizontalAlignment="Stretch" VerticalContentAlignment="Center"
+                        HorizontalContentAlignment="Center" FontSize="40" Background="#0380fc"
+                        Foreground="#FFFFFF" Click="AddPlayerButton"/>
+                <StackPanel Name="addPlayerPanel" IsVisible="False" HorizontalAlignment="Stretch" VerticalAlignment="Center" Background="LightGray">
+                    <TextBox Name="FirstNameText" Watermark="Firstname" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <TextBox Name="SurnameText" Watermark="Surname" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <TextBox Name="NumberText" Watermark="Number" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <TextBox Name="SkatingSpeedText" Watermark="Skating Speed" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <TextBox Name="ShootRatingText" Watermark="Shoot Rating" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <TextBox Name="PassRatingText" Watermark="Pass Rating" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <TextBox Name="DefenceRatingText" Watermark="Defence Rating" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <TextBox Name="FaceOffRatingText" Watermark="FaceOff Rating" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <TextBox Name="PositionText" Watermark="Position" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <TextBox Name="TeamIdText" Watermark="Team ID" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <Button Content="SUBMIT" FontSize="40" Background="#0380fc" Click="SubmitAddPlayerButton"/>
+                </StackPanel>
+                <Button Name="ChangeTeamsButton" Content="EDIT PLAYER" HorizontalAlignment="Stretch"
+                        VerticalContentAlignment="Center" HorizontalContentAlignment="Center"
+                        FontSize="40" Background="#0380fc"
+                        Foreground="#FFFFFF" Click="EditPlayerButton"/>
+                <StackPanel Name="editPlayerPanel" IsVisible="False" HorizontalAlignment="Stretch" VerticalAlignment="Center" Background="LightGray">
+                    <TextBox Name="PlayerIdUpdate" Watermark="Player ID" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <TextBox Name="PlayerWhatToUpdate" Watermark="Attribute" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <TextBox Name="PlayerNewValue" Watermark="New Value" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <Button Content="SUBMIT" FontSize="40" Background="#0380fc" Click="SubmitEditPlayerButton"/>
+                </StackPanel>
+                <Button Content="DELETE PLAYER" HorizontalAlignment="Stretch" VerticalContentAlignment="Center"
+                        HorizontalContentAlignment="Center" FontSize="40" Background="#0380fc"
+                        Foreground="#FFFFFF" Click="DeletePlayerButton"/>
+                <StackPanel Name="deletePlayerPanel" IsVisible="False" HorizontalAlignment="Stretch" VerticalAlignment="Center" Background="LightGray">
+                    <TextBox Name="PlayerIdDelete" Watermark="Player ID" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <Button Content="SUBMIT" FontSize="40" Background="#0380fc" Click="SubmitDeletePlayerButton"/>
+                </StackPanel>
+                <Button Content="ADD TEAM" HorizontalAlignment="Stretch" VerticalContentAlignment="Center"
+                        HorizontalContentAlignment="Center" FontSize="40" Background="#0380fc"
+                        Foreground="#FFFFFF" Click="AddTeamButton"/>
+                <StackPanel Name="addTeamPanel" IsVisible="False" HorizontalAlignment="Stretch" VerticalAlignment="Center" Background="LightGray">
+                    <TextBox Name="TeamNameAdd" Watermark="Team Name" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <TextBox Name="TeamCityAdd" Watermark="City" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <TextBox Name="TeamLogoAdd" Watermark="Logo Path" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <Button Content="SUBMIT" FontSize="40" Background="#0380fc" Click="SubmitAddTeamButton"/>
+                </StackPanel>
+                <Button Content="EDIT TEAM" HorizontalAlignment="Stretch" VerticalContentAlignment="Center"
+                        HorizontalContentAlignment="Center" FontSize="40" Background="#0380fc"
+                        Foreground="#FFFFFF" Click="EditTeamButton"/>
+                <StackPanel Name="editTeamPanel" IsVisible="False" HorizontalAlignment="Stretch" VerticalAlignment="Center" Background="LightGray">
+                    <TextBox Name="TeamIdUpdate" Watermark="Team ID" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <TextBox Name="TeamWhatToUpdate" Watermark="Attribute" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <TextBox Name="TeamNewValue" Watermark="New Value" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <Button Content="SUBMIT" FontSize="40" Background="#0380fc" Click="SubmitEditTeamButton"/>
+                </StackPanel>
+                <Button Content="DELETE TEAM" HorizontalAlignment="Stretch" VerticalContentAlignment="Center"
+                        HorizontalContentAlignment="Center" FontSize="40" Background="#0380fc"
+                        Foreground="#FFFFFF" Click="DeleteTeamButton"/>
+                <StackPanel Name="deleteTeamPanel" IsVisible="False" HorizontalAlignment="Stretch" VerticalAlignment="Center" Background="LightGray">
+                    <TextBox Name="TeamIdDelete" Watermark="Team ID" MaxWidth="320" Foreground="#0380fc" FontSize="40" Background="#dbdbdb"/>
+                    <Button Content="SUBMIT" FontSize="40" Background="#0380fc" Click="SubmitDeleteTeamButton"/>
+                </StackPanel>
+                <Button Content="EXIT" HorizontalAlignment="Stretch" VerticalContentAlignment="Center"
+                        HorizontalContentAlignment="Center" FontSize="40" Background="#0380fc"
+                        Foreground="#FFFFFF" Click="ExitChangeTeamsButton"/>
+            </StackPanel>
+        </Border>
+
+        <Border BorderBrush="Black" BorderThickness="0" Grid.Row="2" Grid.Column="0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <ScrollViewer VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Visible">
+            <StackPanel Name="TeamsList" VerticalAlignment="Stretch" Margin="10,10,0,0">
+
+            </StackPanel>
+            </ScrollViewer>    
+        </Border>
+
+        <Border BorderBrush="Black" BorderThickness="0" Grid.Row="2" Grid.Column="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <ScrollViewer VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Visible">
+            <StackPanel Name="PlayersList" Margin="10,10,0,0">
+
+            </StackPanel>
+            </ScrollViewer>    
+        </Border>
+
+        <Border BorderBrush="Black" BorderThickness="0" Grid.Row="0" Grid.Column="0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <StackPanel>
+                <TextBox Name="FindTeam1id" Watermark="TEAM ID" Foreground="#0380fc" FontSize="40" Background="#dbdbdb" Margin="10,10,10,10" HorizontalAlignment="Stretch"/>
+                <Button Content="FIND" FontSize="40" Background="#0380fc" Click="FindTeamButton" Margin="10,0,0,0"/>
+                <TextBlock Name="NameTeam1" FontSize="40" Margin="10,0,0,0"/>
+                <TextBlock Name="CityTeam1" FontSize="40" Margin="10,5,0,0"/>
+            </StackPanel>
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="0,1,0,1" Grid.Row="1" Grid.Column="0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <Image Name="LogoTeam1" Stretch="Uniform" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10,10,10,10"/>
+        </Border>
+
+        <Border BorderBrush="Black" BorderThickness="0" Grid.Row="0" Grid.Column="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <StackPanel>
+                <TextBox Name="FindTeam2id" Watermark="TEAM ID" Foreground="#0380fc" FontSize="40" Background="#dbdbdb" Margin="10,10,10,10"/>
+                <Button Content="FIND" FontSize="40" Background="#0380fc" Click="FindTeam2Button" Margin="10,0,0,0"/>
+                <TextBlock Name="NameTeam2" FontSize="40" Margin="10,0,0,0"/>
+                <TextBlock Name="CityTeam2" FontSize="40" Margin="10,5,0,0"/>
+            </StackPanel>
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="0,1,0,1" Grid.Row="1" Grid.Column="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <Image Name="LogoTeam2" Stretch="Uniform" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10,10,10,10"/>
+        </Border>
+        <Border Grid.Row="0" Grid.Column="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <Image Name="PastaKrejca"/>
+        </Border>
+    </Grid>
+</Window>
